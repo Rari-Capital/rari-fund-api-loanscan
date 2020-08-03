@@ -1,0 +1,19 @@
+{
+  "name": "rari-fund-api-loanscan",
+  "version": "1.0.0",
+  "description": "Retrieves daily dYdX supplier APYs from the past year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "David Lucid",
+    "email": "david@rari.capital",
+    "url": "https://github.com/davidlucid"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.5"
+  }
+}
